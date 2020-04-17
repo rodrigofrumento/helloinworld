@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "estudo de api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigofrumento/helloinworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "hola",
+    "ola",
+    "hallo"
+  ],
+  "author": "Rodrigo Frumento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigofrumento/helloinworld/issues"
+  },
+  "homepage": "https://github.com/rodrigofrumento/helloinworld#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
